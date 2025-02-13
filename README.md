@@ -2,7 +2,7 @@
 👀 I’m interested in Full-Stack Java Development, Web Development, and Mobile App Development.  
 🌱 I’m currently learning advanced Java, Spring Boot, and Cloud Technologies.  
 💞️ I’m looking to collaborate on open-source projects, Android applications, and innovative web solutions.  
-📫 How to reach me: [Your Email] | [Your LinkedIn Profile] | [Your Portfolio/Website]  
+📫 How to reach me: lingeshyadav12345@gmail.com 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love coding, creative arts, and exploring new tech trends!  
 
